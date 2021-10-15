@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alireza Maleki
 - 👀 I’m interested in 
-- 🌱 I’m currently learning NOTHING
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Django, Machine learning, Deep learning
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
