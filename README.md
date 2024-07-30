@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/scholar-darkblue?style=for-the-badge&logo=googlescholar&logoColor=white" alt="scholar Badge"/>
   </a>
 </br>
 </div>
