@@ -37,5 +37,6 @@
 ### My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=allirezamaleki&theme=iceberg&hide_border=true)](https://git.io/streak-stats)
 ![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=allirezamaleki&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allirezamaleki&layout=compact&theme=vision-friendly-dark)](https://github.com/allirezamaleki/github-readme-stats)
 
 </div>
