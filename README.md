@@ -5,23 +5,40 @@
 </div>
 
 <div id="badges" align='center'>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="your-linkedin-UR">
+    <img src="https://img.shields.io/badge/ResearchGate-white?style=for-the-badge&logo=Reseachgate&logoColor=black" alt="RG Badge"/>
+  </a>
+  <a href="your-linkedin-UR">
+    <img src="https://img.shields.io/badge/Aparat-red?style=for-the-badge&logo=Aparat&logoColor=white" alt="aparat Badge"/>
+  </a>
+  <a href="your-linkedin-UR">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="gmail Badge"/>
+  </a>
+</br>
+  <a href="your-linkedin-UR">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="telegram Badge"/>
+  </a>
+  <a href="your-linkedin-UR">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1>
-  hey there
+  Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<h2>
+  🎓 AI Master Student at BASU 
+</h2>
+<h3>
+  👨‍💻 Machine Learning & Deep learning
+  </br>
+  🎯 Digital Image Processing 
+</h3>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
