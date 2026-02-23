@@ -32,7 +32,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h2>
-  🎓 AI Master Student at BASU 
+  🎓 M.Sc. in Artificial Intelligence from BASU 
 </h2>
 <h3>
   👨‍💻 Machine Learning & Deep learning
